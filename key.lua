@@ -1,3 +1,1 @@
-return {
-  "TestKey"
-}
+return "TestKey"
